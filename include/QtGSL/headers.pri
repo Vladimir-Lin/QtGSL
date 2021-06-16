@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES         = ../../include/QtGSL/qtgsl.h
+SYNCQT.HEADER_CLASSES       = ../../include/QtGSL/QtGSL
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES     =
+SYNCQT.INJECTIONS           =
